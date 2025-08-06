@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kelvinmakau
-- AWS Cloud Practitioner
+- Certified AWS Cloud Solutions Architect
 - 👀 I’m on the roadmap to becoming a Fullstack Developer
 - 🌱 I’m currently learning JavaScript and development of web APIs
 - 💞️ I’m looking to collaborate on any project that is going to challenge me critically and give me room to grow while letting me learn new technologies
